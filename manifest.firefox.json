@@ -4,7 +4,7 @@
   "version"         : "5.3",
   "description"     : "Dark Mode • Themes • Autoreload • Mermaid Diagrams • MathJax • ToC • Syntax Highlighting",
 
-  "homepage_url": "https://github.com/simov/markdown-viewer",
+  "homepage_url": "https://github.com/imjotalex/markdown-viewer",
 
   "icons": {
     "16" : "/icons/default/16x16.png",
@@ -88,7 +88,6 @@
 
   "browser_specific_settings": {
     "gecko": {
-      "id": "markdown-viewer@outofindex.com",
       "strict_min_version": "110.0"
     }
   }

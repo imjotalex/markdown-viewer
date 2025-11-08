@@ -5,7 +5,7 @@ Build the `themes` and `vendor` folders, and create the `markdown-viewer.zip` pa
 
 ```bash
 # pick a release tag
-git clone --depth 1 --branch 5.2 https://github.com/simov/markdown-viewer.git
+git clone --depth 1 --branch 5.2 https://github.com/imjotalex/markdown-viewer.git
 cd markdown-viewer/
 # build
 sh build/package.sh

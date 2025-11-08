@@ -1,8 +1,6 @@
 
 # Markdown Viewer / Browser Extension
 
-**Install: [Chrome]** / **[Firefox]** / **[Edge]** / **[Opera]**  / **[Brave]** / **[Chromium]** / **[Vivaldi]**
-
 # Features
 
 - Secure by design
@@ -335,39 +333,6 @@ Note that in any of the following cases you won't receive any future updates aut
 
 ---
 
-# License
-
-The MIT License (MIT)
-
-Copyright (c) 2013-present, Simeon Velichkov <simeonvelichkov@gmail.com> (https://github.com/simov/markdown-viewer)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-
-  [chrome]: https://chromewebstore.google.com/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk
-  [firefox]: https://addons.mozilla.org/en-US/firefox/addon/markdown-viewer-chrome/
-  [edge]: https://microsoftedge.microsoft.com/addons/detail/markdown-viewer/cgfmehpekedojlmjepoimbfcafopimdg
-  [opera]: https://chromewebstore.google.com/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk
-  [brave]: https://chromewebstore.google.com/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk
-  [chromium]: https://chromewebstore.google.com/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk
-  [vivaldi]: https://chromewebstore.google.com/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk
-
   [marked]: https://github.com/markedjs/marked
   [remark]: https://github.com/remarkjs/remark
   [markdown-it]: https://github.com/markdown-it/markdown-it
@@ -384,14 +349,14 @@ SOFTWARE.
 
   [gfm]: https://github.github.com/gfm/
   [prism-lang]: https://prismjs.com/#supported-languages
-  [compilers]: https://github.com/simov/markdown-viewer/tree/compilers
-  [releases]: https://github.com/simov/markdown-viewer/releases
-  [mv2]: https://github.com/simov/markdown-viewer/tree/mv2
-  [compilers-mv2]: https://github.com/simov/markdown-viewer/tree/compilers-mv2
-  [firefox-docs]: https://github.com/simov/markdown-viewer/blob/main/firefox.md
+  [compilers]: https://github.com/imjotalex/markdown-viewer/tree/compilers
+  [releases]: https://github.com/imjotalex/markdown-viewer/releases
+  [mv2]: https://github.com/imjotalex/markdown-viewer/tree/mv2
+  [compilers-mv2]: https://github.com/imjotalex/markdown-viewer/tree/compilers-mv2
+  [firefox-docs]: https://github.com/imjotalex/markdown-viewer/blob/main/firefox.md
   [custom-theme]: https://gist.github.com/simov/2a074a1c0123e6ba4bc2bfa6a67d3203
 
-  [syntax-github]: https://github.com/simov/markdown-syntax
+  [syntax-github]: https://github.com/imjotalex/markdown-syntax
   [syntax-gitlab]: https://gitlab.com/simovelichkov/markdown-syntax
   [syntax-bitbucket]: https://bitbucket.org/simovelichkov/markdown-syntax
 
